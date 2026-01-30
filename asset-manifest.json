@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f4374bc7.css",
-    "main.js": "/portfolio/static/js/main.05fe7ce7.js",
+    "main.js": "/portfolio/static/js/main.b0b53d84.js",
     "static/js/787.0dcb427f.chunk.js": "/portfolio/static/js/787.0dcb427f.chunk.js",
     "static/media/Elementor-01.png": "/portfolio/static/media/Elementor-01.12d68a760c9f2a676154.png",
     "static/media/Elementor-02.png": "/portfolio/static/media/Elementor-02.15be681d6aca6730ba34.png",
     "static/media/register-system-01.png": "/portfolio/static/media/register-system-01.d7d1073b65dbc328f474.png",
     "static/media/register-system-07.png": "/portfolio/static/media/register-system-07.2c25acfee6f76068f074.png",
     "static/media/register-system-02.png": "/portfolio/static/media/register-system-02.96a114141370dbcf455c.png",
+    "static/media/React-Native-02.gif": "/portfolio/static/media/React-Native-02.d03adbe8b366573cbc07.gif",
+    "static/media/Dashboard-10.png": "/portfolio/static/media/Dashboard-10.2ba233aae1cb0b75b571.png",
     "static/media/Dashboard-03.png": "/portfolio/static/media/Dashboard-03.a0e3d27f9dfdd0e8e296.png",
+    "static/media/Dashboard-11.png": "/portfolio/static/media/Dashboard-11.8d544b0fc575a3a06a70.png",
     "static/media/Dashboard-06.png": "/portfolio/static/media/Dashboard-06.cc1cadc767264cfbe6e0.png",
-    "static/media/React-Native-01.gif": "/portfolio/static/media/React-Native-01.e0be8ca8ffc7a273d844.gif",
     "static/media/Dashboard-05.png": "/portfolio/static/media/Dashboard-05.d05ca45ea841b2999862.png",
     "static/media/Dashboard-01.png": "/portfolio/static/media/Dashboard-01.8aa442355b3850e27954.png",
     "static/media/Dashboard-02.png": "/portfolio/static/media/Dashboard-02.e8da2d11233986318fc2.png",
@@ -18,7 +20,9 @@
     "static/media/Dashboard-07.png": "/portfolio/static/media/Dashboard-07.22f54fb5434af4150bf9.png",
     "static/media/SQL SERVER.png": "/portfolio/static/media/SQL SERVER.a4ba4125aadc50241c26.png",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/Dashboard-04.png": "/portfolio/static/media/Dashboard-04.0f2df24c23a218013050.png",
+    "static/media/vue.png": "/portfolio/static/media/vue.3a43e37d645f5c44b589.png",
     "static/media/LoginScreen2.jpg": "/portfolio/static/media/LoginScreen2.09a7ea005a94eea743ff.jpg",
     "static/media/asp.png": "/portfolio/static/media/asp.dd7a117bf194479b58fd.png",
     "static/media/mongo.png": "/portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
@@ -28,11 +32,11 @@
     "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.268c4375260420e8d982.png",
     "index.html": "/portfolio/index.html",
     "main.f4374bc7.css.map": "/portfolio/static/css/main.f4374bc7.css.map",
-    "main.05fe7ce7.js.map": "/portfolio/static/js/main.05fe7ce7.js.map",
+    "main.b0b53d84.js.map": "/portfolio/static/js/main.b0b53d84.js.map",
     "787.0dcb427f.chunk.js.map": "/portfolio/static/js/787.0dcb427f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4374bc7.css",
-    "static/js/main.05fe7ce7.js"
+    "static/js/main.b0b53d84.js"
   ]
 }
