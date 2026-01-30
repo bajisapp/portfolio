@@ -8,6 +8,8 @@ import aspnet from '../assets/asp.png'
 import sql from '../assets/SQL SERVER.png'
 import mongodb from '../assets/mongo.png'
 import react from '../assets/react.png'
+import aws from '../assets/aws.png'
+import vue from '../assets/vue.png'
 
 
 function Skills() {
@@ -48,12 +50,12 @@ function Skills() {
       
         
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'> 
-                <img className='w-20 mx-auto' src={aspnet} alt='CSS Icon' />
-                <p className='py-3'>ASP.net</p>
+                <img className='w-20 mx-auto' src={aws} alt='CSS Icon' />
+                <p className='py-3'>AWS Cloud</p>
             </div>
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'> 
-                <img className='w-20 mx-auto' src={sql} alt='CSS Icon' />
-                <p className='py-3'>SQL Server</p>
+                <img className='w-20 mx-auto' src={vue} alt='CSS Icon' />
+                <p className='py-3'>Vue </p>
             </div>
       
         </div>

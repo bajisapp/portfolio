@@ -11,6 +11,8 @@ import Dashboard06 from '../assets/projects/Dashboard/Dashboard-06.png';
 import Dashboard07 from '../assets/projects/Dashboard/Dashboard-07.png';
 import Elementor01 from '../assets/projects/Elementor/Elementor-01.png';
 import Elementor02 from '../assets/projects/Elementor/Elementor-02.png';
+import Dashboard10 from '../assets/projects/Dashboard/Dashboard-10.png';
+import Dashboard11 from '../assets/projects/Dashboard/Dashboard-11.png';
 
 function Works() {
   return (
@@ -22,7 +24,19 @@ function Works() {
         </div>
 
         <div className=' max-w-[1200px] mx-auto p-1 flex flex-col justify-center w-full h-full  items-center'>
-  
+    <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-4 pt-4'>
+    <div className='shadow-lg shadow-[#040c16] group container rounded-md flex jusitfy-center items-center mx-auto content-div'>
+      <div>
+         <img src={Dashboard10} className='border-solid border-1 border-indigo-600 rounded-xl' />
+      </div>
+    </div>
+    <div className='shadow-lg shadow-[#040c16] group container rounded-md flex jusitfy-center items-center mx-auto content-div'>
+      <div>
+         <img src={Dashboard11} className='border-solid border-1 border-indigo-600 rounded-xl' />
+      </div>
+    </div>
+
+  </div>
  
   <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-4 pt-4'>
     <div className='shadow-lg shadow-[#040c16] group container rounded-md flex jusitfy-center items-center mx-auto content-div'>

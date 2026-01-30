@@ -3,7 +3,7 @@ import {HiArrowNarrowRight} from 'react-icons/hi'
 import {Link} from 'react-scroll'
 import loginscreen from '../assets/LoginScreen.jpeg'
 import loginscreen2 from '../assets/LoginScreen2.jpg'
-import ReactNativeDesign01 from '../assets/projects/Mobile/React-Native-01.gif'
+import ReactNativeDesign01 from '../assets/projects/Mobile/React-Native-02.gif'
 
 
 const Home = () => {
